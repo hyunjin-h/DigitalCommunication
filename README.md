@@ -1,6 +1,6 @@
 # DigitalCommunication
 ## Image transmitting/receiving simulation
-- Baseline assumption
+### Baseline assumption
     - BPSK (-1, 1)
     - Y=H×X + N
         - Y: 수신단 신호,
