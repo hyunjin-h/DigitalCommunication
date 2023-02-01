@@ -1,4 +1,5 @@
 # DigitalCommunication
+## Image transmitting/receiving simulation
 - Baseline assumption
     - BPSK (-1, 1)
     - Y=H×X + N
@@ -7,6 +8,7 @@
         H: Channel (1로 가정),
         N: Additive Gaussian noise로 가정
     - Gray-scale image 사용
+### Simulation Process
 1. 이미지 grayscaling
 2. image to bit
 3. 송신**(bpsk)**
