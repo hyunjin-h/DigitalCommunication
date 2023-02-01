@@ -7,10 +7,10 @@
         H: Channel (1로 가정),
         N: Additive Gaussian noise로 가정
     - Gray-scale image 사용
-- 이미지 grayscaling
-- img to bit
-- 송신→ **bpsk**
-- **노이즈** 추가
-- 수신 (**Decision bit**)
-- bit to img
-- BER plot
+1. 이미지 grayscaling
+2. image to bit
+3. 송신**(bpsk)**
+4. **노이즈** 추가
+5. 수신 (**Decision bit**)
+6. bit to image
+7. BER plot
